@@ -1,6 +1,6 @@
 
 
-<!DOCTYPE html>
+
 <html lang="">
 <head>
 <meta charset="UTF-8">
@@ -90,7 +90,7 @@
 <div id="tm">
 <div class="liveContent content unselect">
 <div class="l">
-<a class="item clg" href="https://questunlock.com/dash">QUESTUNLOCK</a>
+<a class="item clg" href="https://questunlock.com/dash">KARPBOT</a>
 </div>
 <div class="r">
 <style type="text/css">
@@ -544,7 +544,7 @@
 <div class="listBlocks" id="info">
 <div class="item">
 <div class="image"><img src="/uploads/land_people.png" width="50%"></div>
-<div class="text">Нам доверяют более<br> 10 000 пользователей</div>
+<div class="text">Нам доверяют более<br> 100000 пользователей</div>
 </div>
 <div class="item">
 <div class="image"><img src="/uploads/land_tools.png" width="50%"></div>
@@ -600,12 +600,12 @@
 <div class="l">
 <a href="https://questunlock.com/politika.php" target="_blank">Пользовательское соглашение</a>
 <a href="https://questunlock.com/politika.php" target="_blank">Политика конфиденциальности</a>
-<a href="https://vk.com/questunlock" style="margin-top: var(--mM);" target="_blank">Вконтакте</a>
+<a href="https://vk.com/karpbot" style="margin-top: var(--mM);" target="_blank">Вконтакте</a>
 </div>
 <div class="r">
 <div>Contacts for communication:<br> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e6979383959293888a89858da68b878f8ac89493">[email&#160;protected]</a></div>
-<div style="color: var(--ci); margin-top: var(--mM);">© Questunlock Сompany 2021</div>
-<div style="color: var(--ci);">439051, Novgorod region, city of Istra, Balkan descent, 17</div>
+<div style="color: var(--ci); margin-top: var(--mM);">© Karpbot Сompany 2021</div>
+
 </div>
 </div>
 </footer>
