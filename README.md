@@ -111,9 +111,9 @@
 				}
 			</style>
 <div class="item" style="opacity: 100%; cursor: default;">
-<span onclick="set_lang('en');" class="lang_button">en</span>
-</div>
-<a class="item" href="https://vk.com/questunlock?w=wall-204516659_19" target="_blank">Гайд</a>
+
+
+
 <a class="item" href="https://questunlock.com/login">Войти</a>
 </div>
 </div>
